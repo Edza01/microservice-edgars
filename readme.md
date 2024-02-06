@@ -7,3 +7,5 @@ npm run test
     - done
 ## \* 2. PAPILDUZDEVUMS \* Automatizēto testu pievienošana
     - 1/2 done
+## \* 3. PAPILDUZDEVUMS * ESLint statisko koda analīzes rīka pievinošana
+    - 1/2 done
